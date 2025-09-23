@@ -23,9 +23,9 @@ Core features:
 
 ## Screenshot
 
-images/screenshot-1.png
-images/screenshot-2.png
-images/screenshot-3.png
+![Screenshot 1](images/screenshot-1.png)
+![Screenshot 2](images/screenshot-2.png)
+![Screenshot 3](images/screenshot-3.png)
 
 ## Instructions to Build
 
