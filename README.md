@@ -27,6 +27,9 @@ Core features:
 ![Screenshot 2](images/screenshot-2.png)
 ![Screenshot 3](images/screenshot-3.png)
 
+## Online Deployment
+muchenqi.github.io/my_homepage
+
 ## Instructions to Build
 
 1. Clone this repository:
