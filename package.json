@@ -1,0 +1,25 @@
+{
+  "name": "my_homepage",
+  "version": "1.0.0",
+  "description": "A simple homepage for the author Muchen Qi",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuchenQi/my_homepage.git"
+  },
+  "author": "Muchen Qi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MuchenQi/my_homepage/issues"
+  },
+  "homepage": "https://github.com/MuchenQi/my_homepage#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.8"
+  },
+  "devDependencies": {
+    "eslint": "^9.36.0"
+  }
+}
