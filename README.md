@@ -28,7 +28,7 @@ Core features:
 ![Screenshot 3](images/screenshot-3.png)
 
 ## Online Deployment
-muchenqi.github.io/my_homepage
+https://muchenqi.github.io/my_homepage/
 
 ## Instructions to Build
 
