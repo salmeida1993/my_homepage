@@ -23,9 +23,9 @@ Core features:
 
 ## Screenshot
 
-images\Screenshot 2025-09-23 105451.png
-images\Screenshot 2025-09-23 105517.png
-images\Screenshot 2025-09-23 105537.png
+images/screenshot-1.png
+images/screenshot-2.png
+images/screenshot-3.png
 
 ## Instructions to Build
 
