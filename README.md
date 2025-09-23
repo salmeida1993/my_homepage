@@ -31,9 +31,9 @@ Core features:
 
 1. Clone this repository:
 
-   ```bash
+   ```
+   bash
    git clone https://github.com/MuchenQi/my_homepage.git
-
    ```
 
 2. Open the project folder:
@@ -42,7 +42,6 @@ Core features:
     bash
     Copy code
     cd my_homepage
-
    ```
 
 3. Open index.html in any browser to view the page.
